@@ -1,7 +1,7 @@
 /**
  * CONFIGURACIÓN GLOBAL DE ENERGY BLACK
- * Certificado de Existencia y Representación Legal - Cámara de Comercio del Putumayo
- * NIT: 901818059-4 | Inscripción N°: S0005258 | Mocoa, Putumayo
+ * Certificado de Existencia y Representación Legal - Cámara de Comercio de Cali
+ * NIT: 901818059-4 | Matrícula N°: 721001-73 | Cali, Valle del Cauca
  */
 
 const APP_CONFIG = {
@@ -10,19 +10,19 @@ const APP_CONFIG = {
     brandName: "Energy Black",
     slogan: "Innovación Energética, Soluciones Solares & Eficiencia de Alto Rendimiento",
     nit: "901818059-4",
-    matricula: "S0005258",
-    camaraComercio: "Cámara de Comercio del Putumayo",
-    fundationYear: 2024,
-    yearsExperience: "2+",
+    matricula: "721001-73",
+    camaraComercio: "Cámara de Comercio de Cali",
+    fundationYear: 2014,
+    yearsExperience: "10+",
     phone: "+57 300 242 5455",
     phoneDisplay: "+57 (300) 242-5455",
     phoneRaw: "3002425455",
     email: "ventas@energyblack.space",
-    address: "Carrera 7A Calle 14 Nro. 60, Barrio Olímpico",
-    city: "Mocoa",
-    department: "Putumayo",
+    address: "CL 36 NORTE # 56 - 533 CS 30",
+    city: "Cali",
+    department: "Valle del Cauca",
     country: "Colombia",
-    fullAddress: "Carrera 7A Calle 14 Nro. 60 - Olímpico, Mocoa, Putumayo, Colombia",
+    fullAddress: "Carrera 7A Calle 14 Nro. 60 - Olímpico, Cali, Valle del Cauca, Colombia",
     domain: "energyblack.space",
     schedule: "Lunes a Viernes: 8:00 AM - 6:00 PM | Sábados: 8:00 AM - 2:00 PM",
     niifGroup: "Grupo III (Microempresas)",
@@ -30,11 +30,11 @@ const APP_CONFIG = {
   },
 
   about: {
-    badge: "Energía Sostenible & Tecnología Limpia • Registro CC-Putumayo",
+    badge: "Energía Sostenible & Tecnología Limpia • Registro CC-Cali",
     title: "Impulsando el Futuro con Soluciones de Energía Limpia & Alta Eficiencia",
-    description: "Energy Black es una compañía colombiana registrada formalmente bajo el número de inscripción S0005258 ante la Cámara de Comercio del Putumayo, con sede en Mocoa. Nos especializamos en la estructuración, diseño, suministro e instalación de sistemas de energía solar fotovoltaica, almacenamiento inteligente, respaldo eléctrico ininterrumpido y consultoría de eficiencia energética para hogares, comercios e industrias en todo el territorio nacional.",
+    description: "Energy Black es una compañía colombiana registrada formalmente bajo el número de matrícula 721001-73 ante la Cámara de Comercio de Cali, con sede en Cali, Valle del Cauca. Nos especializamos en la estructuración, diseño, suministro e instalación de sistemas de energía solar fotovoltaica, almacenamiento inteligente, respaldo eléctrico ininterrumpido y consultoría de eficiencia energética para hogares, comercios e industrias en todo el territorio nacional.",
     mission: "Proveer soluciones tecnológicas de energía renovable y respaldo eléctrico de máxima confiabilidad, reduciendo la huella de carbono y optimizando la rentabilidad energética de nuestros clientes con estricto cumplimiento normativo.",
-    vision: "Convertirnos en el referente líder del sur de Colombia y a nivel nacional en transición energética, infraestructura solar avanzada y servicios de ingeniería de potencia."
+    vision: "Convertirnos en el referente líder del Valle del Cauca y a nivel nacional en transición energética, infraestructura solar avanzada y servicios de ingeniería de potencia."
   },
 
   stats: [
@@ -117,7 +117,7 @@ const APP_CONFIG = {
       title: "Parque Solar Comercial & Respaldo BESS",
       category: "Energía Solar Fotovoltaica",
       image: "hero.jpg",
-      location: "Mocoa, Putumayo",
+      location: "Cali, Valle del Cauca",
       year: "2025",
       summary: "Instalación de 45 kWp con 82 paneles monocristalinos y banco de baterías de litio para respaldo 100% autónomo."
     },
@@ -156,7 +156,7 @@ const APP_CONFIG = {
         {
           num: "1",
           heading: "Identificación del Responsable del Tratamiento",
-          content: "ENERGY BLACK, identificada con NIT 901818059-4, con número de inscripción S0005258 ante la Cámara de Comercio del Putumayo (constituida formalmente el 19 de marzo de 2024, renovada en 2025), con domicilio principal en Carrera 7A Calle 14 Nro. 60 - Olímpico, Mocoa, Putumayo, Colombia; correo electrónico de notificaciones judiciales y privacidad: ventas@energyblack.space, y teléfono de atención comercial: +57 (300) 242-5455, en calidad de Responsable del Tratamiento de Datos Personales, adopta la presente política en cumplimiento de la Ley 1581 de 2012, el Decreto 1377 de 2013 y normas de Meta Platforms Inc."
+          content: "ENERGY BLACK, identificada con NIT 901818059-4, con matrícula mercantil 721001-73 ante la Cámara de Comercio de Cali (registrada el 5 de noviembre de 2014, renovada en 2026), con domicilio principal en Carrera 7A Calle 14 Nro. 60 - Olímpico, Cali, Valle del Cauca, Colombia; correo electrónico de notificaciones judiciales y privacidad: ventas@energyblack.space, y teléfono de atención comercial: +57 (300) 242-5455, en calidad de Responsable del Tratamiento de Datos Personales, adopta la presente política en cumplimiento de la Ley 1581 de 2012, el Decreto 1377 de 2013 y normas de Meta Platforms Inc."
         },
         {
           num: "2",
@@ -176,7 +176,7 @@ const APP_CONFIG = {
         {
           num: "5",
           heading: "Procedimiento y Canales para el Ejercicio de Derechos",
-          content: "Los titulares pueden ejercer sus derechos mediante comunicación escrita remitida al correo electrónico ventas@energyblack.space o entregada físicamente en la Carrera 7A Calle 14 Nro. 60 - Olímpico, Mocoa, Putumayo. Las solicitudes de supresión serán atendidas formalmente en un término máximo de diez (10) días hábiles."
+          content: "Los titulares pueden ejercer sus derechos mediante comunicación escrita remitida al correo electrónico ventas@energyblack.space o entregada físicamente en la Carrera 7A Calle 14 Nro. 60 - Olímpico, Cali, Valle del Cauca. Las solicitudes de supresión serán atendidas formalmente en un término máximo de diez (10) días hábiles."
         },
         {
           num: "6",
@@ -204,7 +204,7 @@ const APP_CONFIG = {
         {
           num: "1",
           heading: "Titularidad del Sitio y Aceptación de las Condiciones",
-          content: "El presente portal web es propiedad exclusiva de ENERGY BLACK (NIT 901818059-4), empresa constituida conforme a las leyes colombianas con inscripción N° S0005258 de la Cámara de Comercio del Putumayo. El acceso y navegación en este sitio implica la aceptación plena e incondicional de los presentes Términos y Condiciones."
+          content: "El presente portal web es propiedad exclusiva de ENERGY BLACK (NIT 901818059-4), empresa constituida conforme a las leyes colombianas con matrícula N° 721001-73 de la Cámara de Comercio de Cali. El acceso y navegación en este sitio implica la aceptación plena e incondicional de los presentes Términos y Condiciones."
         },
         {
           num: "2",
@@ -229,7 +229,7 @@ const APP_CONFIG = {
         {
           num: "6",
           heading: "Legislación Aplicable y Jurisdicción",
-          content: "Los presentes Términos se rigen por la legislación colombiana. Cualquier controversia será dirimida ante los Jueces Ordinarios de la ciudad de Mocoa, Putumayo, Colombia."
+          content: "Los presentes Términos se rigen por la legislación colombiana. Cualquier controversia será dirimida ante los Jueces Ordinarios de la ciudad de Cali, Valle del Cauca, Colombia."
         }
       ]
     }

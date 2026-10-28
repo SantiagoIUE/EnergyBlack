@@ -22,7 +22,7 @@ const APP_CONFIG = {
     city: "Cali",
     department: "Valle del Cauca",
     country: "Colombia",
-    fullAddress: "Carrera 7A Calle 14 Nro. 60 - Olímpico, Cali, Valle del Cauca, Colombia",
+    fullAddress: "CL 36 NORTE # 56 - 533 CS 30, Cali, Valle del Cauca, Colombia",
     domain: "energyblack.space",
     schedule: "Lunes a Viernes: 8:00 AM - 6:00 PM | Sábados: 8:00 AM - 2:00 PM",
     niifGroup: "Grupo III (Microempresas)",
@@ -125,7 +125,7 @@ const APP_CONFIG = {
       title: "Sistema Híbrido Residencial Autónomo",
       category: "Autoconsumo & Sostenibilidad",
       image: "p1.jpg",
-      location: "Putumayo, Colombia",
+      location: "Cali, Valle del Cauca, Colombia",
       year: "2025",
       summary: "Dotación solar de 12 kWp con inversores híbridos inteligentes y cero exportación a red para vivienda de alto estándar."
     },
@@ -133,7 +133,7 @@ const APP_CONFIG = {
       title: "Infraestructura de Energía Limpia Rural",
       category: "Proyectos Off-Grid",
       image: "p2.jpg",
-      location: "Amazonía / Putumayo",
+      location: "Valle del Cauca, Colombia",
       year: "2024",
       summary: "Planta solar aislada para operación agroindustrial continua con monitoreo satelital en tiempo real."
     },
@@ -156,7 +156,7 @@ const APP_CONFIG = {
         {
           num: "1",
           heading: "Identificación del Responsable del Tratamiento",
-          content: "ENERGY BLACK, identificada con NIT 901818059-4, con matrícula mercantil 721001-73 ante la Cámara de Comercio de Cali (registrada el 5 de noviembre de 2014, renovada en 2026), con domicilio principal en Carrera 7A Calle 14 Nro. 60 - Olímpico, Cali, Valle del Cauca, Colombia; correo electrónico de notificaciones judiciales y privacidad: ventas@energyblack.space, y teléfono de atención comercial: +57 (300) 242-5455, en calidad de Responsable del Tratamiento de Datos Personales, adopta la presente política en cumplimiento de la Ley 1581 de 2012, el Decreto 1377 de 2013 y normas de Meta Platforms Inc."
+          content: "ENERGY BLACK, identificada con NIT 901818059-4, con matrícula mercantil 721001-73 ante la Cámara de Comercio de Cali (registrada el 5 de noviembre de 2014, renovada en 2026), con domicilio principal en CL 36 NORTE # 56 - 533 CS 30, Cali, Valle del Cauca, Colombia; correo electrónico de notificaciones judiciales y privacidad: ventas@energyblack.space, y teléfono de atención comercial: +57 (300) 242-5455, en calidad de Responsable del Tratamiento de Datos Personales, adopta la presente política en cumplimiento de la Ley 1581 de 2012, el Decreto 1377 de 2013 y normas de Meta Platforms Inc."
         },
         {
           num: "2",
@@ -176,7 +176,7 @@ const APP_CONFIG = {
         {
           num: "5",
           heading: "Procedimiento y Canales para el Ejercicio de Derechos",
-          content: "Los titulares pueden ejercer sus derechos mediante comunicación escrita remitida al correo electrónico ventas@energyblack.space o entregada físicamente en la Carrera 7A Calle 14 Nro. 60 - Olímpico, Cali, Valle del Cauca. Las solicitudes de supresión serán atendidas formalmente en un término máximo de diez (10) días hábiles."
+          content: "Los titulares pueden ejercer sus derechos mediante comunicación escrita remitida al correo electrónico ventas@energyblack.space o entregada físicamente en la CL 36 NORTE # 56 - 533 CS 30, Cali, Valle del Cauca. Las solicitudes de supresión serán atendidas formalmente en un término máximo de diez (10) días hábiles."
         },
         {
           num: "6",
